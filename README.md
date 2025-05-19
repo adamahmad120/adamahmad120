@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @adamahmad120
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I’m @Adam Ahmad
 
-<!---
-adamahmad120/adamahmad120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Dynamics 365 Consultant | Power Platform Specialist | Digital Transformation Enthusiast
+
+## 👀 I’m interested in
+
+🔹 Dynamics 365 CRM & F&O Implementation  
+🔹 Power Apps, Power Automate & Power Virtual Agents  
+🔹 Dataverse Management & Custom Workflows  
+🔹 Azure Integrations & Logic Apps  
+🔹 End-to-End Business Process Automation
+
+## 🌱 I’m currently learning
+
+📌 AI Builder & Copilot in Power Platform  
+📌 Azure Functions for Dynamics 365 Extensions  
+📌 Dual Write & Data Migration Best Practices  
+📌 Custom PCF Control Development
+
+## 💞️ I’m looking to collaborate on
+
+✅ Dynamics 365 Implementation Projects  
+✅ Power Platform Solutions & Automation  
+✅ Cross-platform CRM Integrations
+
+## 📫 Contact
+
+📧 Email: ahmadadev92@gmail.com
